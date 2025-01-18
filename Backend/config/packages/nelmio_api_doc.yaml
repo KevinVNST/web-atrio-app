@@ -1,0 +1,9 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: API Documentation
+            description: Description de mon api pour Web-atrio
+            version: 1.0.0
+    areas: 
+        path_patterns:
+            - ^/ # Inclut toutes les routes sous /api
