@@ -1,7 +1,7 @@
 # web-atrio-app
 
 ## Auto-evaluation
-Lors de cette exercice je ne me suis pas concentré sur le design et l'ergonomie mais sur le fait que les fonctionnalités demandés fonctionnent. Ce qui explique que l'utilisation et la navigation ne soit pas très intuitive. j'ai utilisé symfony pour faire l'API et React pour faire l'interface utilisateur.
+Lors de cet exercice je ne me suis pas concentré sur le design et l'ergonomie mais sur le fait que les fonctionnalités demandées fonctionnent. Ce qui explique que l'utilisation et la navigation ne soit pas très intuitive. J'ai utilisé symfony pour faire l'API et React pour faire l'interface utilisateur.
 
 ## Utilisation
 ```http://localhost:5173/``` renvoie vers la page d'accueil qui comporte la liste des utilisateurs, le formulaire d'ajout d'utilisateur.
